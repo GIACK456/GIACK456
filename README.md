@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @GIACK456
 - 👀 I’m interested in spaceflight, eletronics and webdevelopement
 - 🌱 I’m currently learning orbital mechanics, webdevelopement, deep learning and game deveopement
-- 💞️ I’m looking to collaborate on all sort of stuff, from games to discord bots
 - 📫 How to reach me mrgiackermen@gmail.com
 
 <!---
