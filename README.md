@@ -20,18 +20,15 @@
 ### Languages and Tools:
 
 
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="php" width="26px" src="https://logowik.com/content/uploads/images/php.jpg" style="padding-right:10px;" />]
-[<img align="left" alt="python" width="26px" src="https://banner2.cleanpng.com/20190623/yp/kisspng-python-computer-icons-programming-language-executa-5d0f0aa79779a6.6143656815612668556205.jpg" style="padding-right:10px;" />]
-[<img align="left" alt="c++" width="26px" src="https://logowik.com/content/uploads/images/911_c_logo.jpg" style="padding-right:10px;" />]
-
-[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]
-
-
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />]
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />]
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="php" width="26px" src="https://logowik.com/content/uploads/images/php.jpg" style="padding-right:10px;" />
+<img align="left" alt="python" width="26px" src="https://banner2.cleanpng.com/20190623/yp/kisspng-python-computer-icons-programming-language-executa-5d0f0aa79779a6.6143656815612668556205.jpg" style="padding-right:10px;" />
+<img align="left" alt="c++" width="26px" src="https://logowik.com/content/uploads/images/911_c_logo.jpg" style="padding-right:10px;" />
+<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />
+<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
 
 <br />
 <br />
