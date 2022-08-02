@@ -6,9 +6,9 @@
 ## I'm a student and Developer!!
 
 
-- 🌱 I’m currently learning everything
-- ⚡ Mainly interested into networking, physics and webdevelopement
-- 😻 Loves working with discord bots and K.O.S.
+- I’m currently learning everything
+- Mainly interested into networking, physics and web-developement
+- Loves working with discord bots and K.O.S.
 
 ### Connect with me:
 
