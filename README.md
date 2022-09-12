@@ -1,4 +1,4 @@
-# Hi there, I'm giack - aka [giacky][youtube] 👋
+# Hi there, I'm giack
 
 
 
