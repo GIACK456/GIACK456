@@ -1,53 +1,13 @@
 # Hi there, I'm giack
 
 
+- I'm a student and developer
+- I know several languages such as C++ (with Arduino and QT), P.H.P, MySQL, H.T.M.L., C.S.S. and python
+- I'm currently learning to be more efficent with c++, use c# with unity and code with J.S.
 
-
-## I'm a student and Developer!!
-
-
-- I’m currently learning everything
-- Mainly interested into networking, physics and web-developement
-- Loves working with discord bots and K.O.S.
-
-### Connect with me:
-
-
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCRwZWx8bAn4x2Ruyqb328pQ/about)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCRwZWx8bAn4x2Ruyqb328pQ/about)
-
-
-### Languages and Tools:
-
-
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="php" width="26px" src="https://logowik.com/content/uploads/images/php.jpg" style="padding-right:10px;" />
-<img align="left" alt="python" width="26px" src="https://banner2.cleanpng.com/20190623/yp/kisspng-python-computer-icons-programming-language-executa-5d0f0aa79779a6.6143656815612668556205.jpg" style="padding-right:10px;" />
-<img align="left" alt="c++" width="26px" src="https://logowik.com/content/uploads/images/911_c_logo.jpg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />
-<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
-
-<br />
-<br />
-
----
-
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [Mun ascent (ksp), kos](https://youtu.be/um1D6PSBEoM)
-- [Cleg-1 launch (ksp), kos](https://youtu.be/MbBAISjIZqI)
-
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://www.youtube.com/channel/UCRwZWx8bAn4x2Ruyqb328pQ)
+- The most ambitoius project I took part of was the realization of the <a href="https://theweeklykerman.com>">weekly kerman website</a>, I also developed the "ServerLuna" discord bot for the Italian discord K.S.P. community
 
 
 
-
-
-[youtube]: https://youtube.com/codeSTACKr
-[discord]: GIACK456#6214
+- If you want to contact me, I reccomend using discord, this is my account name:
+GIACK456#6214
